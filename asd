@@ -5,3 +5,10 @@ like:true
 comment:false
 commentphoto:false
 onlyphoto:false
+https://x.com/NadeKing/status/1784612914864726516
+follow:NadeKing,  SkinBaronEN
+retweet:true
+like:true
+comment:false
+commentphoto:false
+onlyphoto:false
